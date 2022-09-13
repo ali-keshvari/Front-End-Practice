@@ -50,6 +50,7 @@ nav > ul > li > a {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  flex-wrap: wrap;
 }
 #section-div > div {
   border: 2px solid black;
