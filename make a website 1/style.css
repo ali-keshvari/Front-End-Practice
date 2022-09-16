@@ -114,6 +114,7 @@ nav > ul > li > a {
 #section-Description > table {
   width: 100%;
 }
-.one {
-  height: 30vh;
+h1,
+p {
+  margin: 3px;
 }
