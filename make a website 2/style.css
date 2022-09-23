@@ -1,3 +1,6 @@
 .poster {
   height: 75vh;
 }
+.card {
+  box-shadow: rgb (167, 167, 167);
+}
